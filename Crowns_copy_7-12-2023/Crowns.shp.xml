@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20231110</CreaDate><CreaTime>14335100</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.7\ArcToolbox\Toolboxes\3D Analyst Tools.tbx\LasPointStatsByArea" Date="20231110" Time="143351">LasPointStatsByArea GatorEye_SubjectTerms_20220307-201126_final_CHM_merged_dem.las Crowns Z_MIN;Z_MAX;Z_MEAN;POINT_COUNT;STANDARD_DEVIATION</Process></lineage></DataProperties></Esri></metadata>
